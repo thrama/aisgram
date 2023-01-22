@@ -3,9 +3,13 @@ version = 1
 [[analyzers]]
 name = "python"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 enabled = true
 >>>>>>> 45c2f01 (Small fix)
+=======
+enabled = true
+>>>>>>> main
 
   [analyzers.meta]
   runtime_version = "3.x.x"
